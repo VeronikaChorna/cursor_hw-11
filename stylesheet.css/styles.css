@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(254, 253, 249);
+    padding-top: 50px;
+}
+
+.row {
+    height: 300px;
+}
+
+.column {
+    width: 300px;
+    margin: 12.5px;
+}
+
+.bg-img1 {
+    background-image: url(./images/photo_2022-10-19_23-09-30.jpg);
+    background-size: 300px 300px;
+}
+
+.bg-img2 {
+    background-image: url(./images/photo_2022-10-19_23-09-25.jpg);
+    background-size: 300px 300px;
+}
+
+.bg-img3 {
+    background-image: url(./images/photo_2022-10-19_23-09-33.jpg);
+    background-size: 300px 300px;
+}
+
+.bg-img4 {
+    background-image: url(./images/photo_2022-10-19_23-09-36.jpg);
+    background-size: 300px 300px;
+}
+
+.bg-img5 {
+    background-image: url(./images/photo_2022-10-19_23-09-40.jpg);
+    background-size: 300px 300px;
+}
+
+.bg-img6 {
+    background-image: url(./images/photo_2022-10-19_23-09-45.jpg);
+    background-size: 300px 300px;
+}
+
+.bg-img7 {
+    background-image: url(./images/photo_2022-10-19_23-09-48.jpg);
+    background-size: 300px 300px;
+}
+
+.bg-img8 {
+    background-image: url(./images/photo_2022-10-19_23-09-51.jpg);
+    background-size: 300px 300px;
+}
+
+.bg-img9 {
+    background-image: url(./images/photo_2022-10-19_23-09-56.jpg);
+    background-size: 300px 300px;
+}
+
+.inner {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
