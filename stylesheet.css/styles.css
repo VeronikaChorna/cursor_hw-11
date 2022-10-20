@@ -1,9 +1,9 @@
 body {
     background-color: rgb(254, 253, 249);
-    padding-top: 50px;
+    margin-top: 50px;
 }
 
-.row {
+.row-img {
     height: 300px;
 }
 
@@ -62,3 +62,4 @@ body {
     justify-content: center;
     flex-wrap: wrap;
 }
+
